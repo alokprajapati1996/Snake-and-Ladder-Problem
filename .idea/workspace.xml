@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8d017ec7-6602-4bf1-9e3f-0653e6ad21a8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/snakeandladdergame/SnakeAndLadder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/snakeandladdergame/SnakeAndLadder.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
