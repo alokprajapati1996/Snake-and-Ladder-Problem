@@ -16,6 +16,9 @@ public class SnakeAndLadder {
                     break;
                 case LADDER:
                     player = player + dice;
+                    if(player>100){
+                        player=player-dice;
+                    }
 
                     break;
                 case SNAKE:
@@ -25,8 +28,8 @@ public class SnakeAndLadder {
                     }
                     break;
             }
-
         }
+        System.out.println("yes i win to reahed "+player);
     }
 }
 
